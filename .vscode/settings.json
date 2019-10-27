@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3bda4b8-a79c-4f13-8a06-43a429223b07/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/smoothee",
+    "appService.deploySubpath": ""
+}
