@@ -1,7 +1,6 @@
 # Welcome
 
 
-
 Smoothee is a tiny but powerful open-source label and artist credition platform made with Node.js, MongoDB, Google Cloud, and hosted on Microsoft Azure. 
 
 ## Features
@@ -17,6 +16,8 @@ Smoothee is a tiny but powerful open-source label and artist credition platform 
 * Find people with similar music taste thanks to TensorFlow Magenta
 
 And a lot more to be added soon...
+
+Source code shared with Anurag Silar. 
 
 ## To Do's
 
