@@ -17,7 +17,7 @@ Smoothee is a tiny but powerful open-source label and artist credition platform 
 
 And a lot more to be added soon...
 
-Source code shared with Anurag Silar. 
+Inspired from Divraj Srivastava's social network. 
 
 ## To Do's
 
