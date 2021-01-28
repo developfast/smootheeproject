@@ -37,7 +37,7 @@
     "time-ago": "0.2.1"
   },
   "devDependencies": {
-    "electron": "2.0.12"
+    "electron": "9.4.0"
   },
   "description": "A music credition platform written in Node.js",
   "main": "./bin/www",
