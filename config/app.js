@@ -1,3 +1,4 @@
+//var dbHost_test = process.env.dbHost || "localhost:8808";
 var dbHost = process.env.dbHost || "localhost";
 module.exports = {
 	"name":"smoothee",
